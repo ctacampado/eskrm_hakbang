@@ -1,12 +1,10 @@
 # eskrm_hakbang
 Hakbang is an online information tracking and dissimination platform and is part of Project Eskrima.
 
-## Serverless Architecture
+## Architecture
 ![arch](public/Hakbang.png)
 
-## API
-
-### Sample GET response body
+## Sample Data
 
 ```
 {
